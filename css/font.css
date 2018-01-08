@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'FuturaStd-Bold';
+  src: url('../fonts/FuturaStd-Bold.eot');
+  src: url('../fonts/FuturaStd-Bold.woff') format('woff'),
+       url('../fonts/FuturaStd-Bold.ttf') format('truetype'),
+       url('../fonts/FuturaStd-Bold.svg#FuturaStd-Bold') format('svg'),
+       url('../fonts/FuturaStd-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaStd-CondensedLight';
+  src: url('../fonts/FuturaStd-CondensedLight.eot');
+  src: url('../fonts/FuturaStd-CondensedLight.woff') format('woff'),
+       url('../fonts/FuturaStd-CondensedLight.ttf') format('truetype'),
+       url('../fonts/FuturaStd-CondensedLight.svg#FuturaStd-CondensedLight') format('svg'),
+       url('../fonts/FuturaStd-CondensedLight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaStd-Medium';
+  src: url('../fonts/FuturaStd-Medium.eot');
+  src: url('../fonts/FuturaStd-Medium.woff') format('woff'),
+       url('../fonts/FuturaStd-Medium.ttf') format('truetype'),
+       url('../fonts/FuturaStd-Medium.svg#FuturaStd-Medium') format('svg'),
+       url('../fonts/FuturaStd-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+

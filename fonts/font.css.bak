@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'FuturaStd-Bold';
+  src: url('FuturaStd-Bold.eot');
+  src: url('FuturaStd-Bold.woff') format('woff'),
+       url('FuturaStd-Bold.ttf') format('truetype'),
+       url('FuturaStd-Bold.svg#FuturaStd-Bold') format('svg'),
+       url('FuturaStd-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaStd-CondensedLight';
+  src: url('FuturaStd-CondensedLight.eot');
+  src: url('FuturaStd-CondensedLight.woff') format('woff'),
+       url('FuturaStd-CondensedLight.ttf') format('truetype'),
+       url('FuturaStd-CondensedLight.svg#FuturaStd-CondensedLight') format('svg'),
+       url('FuturaStd-CondensedLight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaStd-Medium';
+  src: url('FuturaStd-Medium.eot');
+  src: url('FuturaStd-Medium.woff') format('woff'),
+       url('FuturaStd-Medium.ttf') format('truetype'),
+       url('FuturaStd-Medium.svg#FuturaStd-Medium') format('svg'),
+       url('FuturaStd-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
